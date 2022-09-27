@@ -1,7 +1,7 @@
 <!DOCTYPE html>
 <html>
   <head>
-    <title>Notes</title>
+    <title>Flow Control</title>
     <meta charset="UTF-8" />
 <meta name="viewport" content="width=device-width, initial-scale=1.0" />
 <meta http-equiv="X-UA-Compatible" content="ie=edge" />
@@ -25,10 +25,13 @@
 
 
 
-<meta property="og:title" content="Notes" />
-<meta property="og:description" content="" />
-<meta property="og:type" content="website" />
-<meta property="og:url" content="https://hugo-toha.github.io/notes/" />
+<meta property="og:title" content="Flow Control" />
+<meta property="og:description" content="Just writing normally as well.
+Condition if day == &#34;sunday&#34; || day == &#34;saturday&#34; { rest() } else if day == &#34;monday&#34; &amp;&amp; isTired() { groan() } else { work() } if _, err := doThing(); err != nil { fmt.Println(&#34;Uh oh&#34;)     Switch switch day { case &#34;sunday&#34;: // cases don&#39;t &#34;fall through&#34; by default!  fallthrough case &#34;saturday&#34;: rest() default: work() }     Loop for count := 0; count &lt;= 10; count&#43;&#43; { fmt." />
+<meta property="og:type" content="article" />
+<meta property="og:url" content="https://hugo-toha.github.io/notes/category1/example1/" /><meta property="article:section" content="notes" />
+
+
 
 
 
@@ -111,20 +114,26 @@
   
   
   
+    
+    
+  
   
     
     <li>
-      <i class="fas fa-plus-circle"></i><a class="" href="/notes/category1/">Category 1</a>
+      <i class="fas fa-minus-circle"></i><a class="active" href="/notes/category1/">Category 1</a>
       
-      <ul class="">
+      <ul class="active">
         
   
   
   
   
+    
+    
+  
   
     
-    <li><a class="" href="/notes/category1/example1/" title="Flow Control">Flow Control</a></li>
+    <li><a class="active" href="/notes/category1/example1/" title="Flow Control">Flow Control</a></li>
   
 
 
@@ -171,75 +180,7 @@
 <section class="content-section" id="content-section">
   <div class="content container-fluid" id="content">
     <div class="container-fluid note-card-holder" id="note-card-holder">
-      
-      
-        
-          <!-- A Sample Program -->
-<div class="note-card ">
-    <div class="item">
-        <h5 class="note-title"><span>Hello World</span></h5>
-        
-            <div class="card">
-                <div class="card-body"><p>A sample go program is show here.</p>
-<div class="highlight"><pre tabindex="0" style="color:#f8f8f2;background-color:#272822;-moz-tab-size:4;-o-tab-size:4;tab-size:4"><code class="language-go" data-lang="go"><span style="color:#f92672">package</span> <span style="color:#a6e22e">main</span>
-
-<span style="color:#f92672">import</span> <span style="color:#e6db74">&#34;fmt&#34;</span>
-
-<span style="color:#66d9ef">func</span> <span style="color:#a6e22e">main</span>() {
-  <span style="color:#a6e22e">message</span> <span style="color:#f92672">:=</span> <span style="color:#a6e22e">greetMe</span>(<span style="color:#e6db74">&#34;world&#34;</span>)
-  <span style="color:#a6e22e">fmt</span>.<span style="color:#a6e22e">Println</span>(<span style="color:#a6e22e">message</span>)
-}
-
-<span style="color:#66d9ef">func</span> <span style="color:#a6e22e">greetMe</span>(<span style="color:#a6e22e">name</span> <span style="color:#66d9ef">string</span>) <span style="color:#66d9ef">string</span> {
-  <span style="color:#66d9ef">return</span> <span style="color:#e6db74">&#34;Hello, &#34;</span> <span style="color:#f92672">+</span> <span style="color:#a6e22e">name</span> <span style="color:#f92672">+</span> <span style="color:#e6db74">&#34;!&#34;</span>
-}
-</code></pre></div><p>Run the program as below:</p>
-<div class="highlight"><pre tabindex="0" style="color:#f8f8f2;background-color:#272822;-moz-tab-size:4;-o-tab-size:4;tab-size:4"><code class="language-bash" data-lang="bash">$ go run hello.go
-</code></pre></div></div>
-            </div>
-        
-    </div>
-</div>
-
-<!-- Declaring Variables -->
-<div class="note-card ">
-    <div class="item">
-        <h5 class="note-title"><span>Variables</span></h5>
-        
-            <div class="card">
-                <div class="card-body"><p><strong>Normal Declaration:</strong></p>
-<div class="highlight"><pre tabindex="0" style="color:#f8f8f2;background-color:#272822;-moz-tab-size:4;-o-tab-size:4;tab-size:4"><code class="language-go" data-lang="go"><span style="color:#66d9ef">var</span> <span style="color:#a6e22e">msg</span> <span style="color:#66d9ef">string</span>
-<span style="color:#a6e22e">msg</span> = <span style="color:#e6db74">&#34;Hello&#34;</span>
-</code></pre></div></div>
-            </div>
-        
-            <div class="card">
-                <div class="card-body"><p><strong>Shortcut:</strong></p>
-<div class="highlight"><pre tabindex="0" style="color:#f8f8f2;background-color:#272822;-moz-tab-size:4;-o-tab-size:4;tab-size:4"><code class="language-go" data-lang="go"><span style="color:#a6e22e">msg</span> <span style="color:#f92672">:=</span> <span style="color:#e6db74">&#34;Hello&#34;</span>
-</code></pre></div></div>
-            </div>
-        
-    </div>
-</div>
-
-<!-- Declaring Constants -->
-<div class="note-card ">
-    <div class="item">
-        <h5 class="note-title"><span>Constants</span></h5>
-        
-            <div class="card">
-                <div class="card-body"><div class="highlight"><pre tabindex="0" style="color:#f8f8f2;background-color:#272822;-moz-tab-size:4;-o-tab-size:4;tab-size:4"><code class="language-go" data-lang="go"><span style="color:#66d9ef">const</span> <span style="color:#a6e22e">Phi</span> = <span style="color:#ae81ff">1.618</span>
-</code></pre></div></div>
-            </div>
-        
-    </div>
-</div>
-
-
-        
-      
-        
-          <p>Just writing normally as well.</p>
+      <p>Just writing normally as well.</p>
 <!-- Condition -->
 <div class="note-card ">
     <div class="item">
@@ -308,63 +249,6 @@
 </div>
 
 
-        
-      
-        
-        
-        
-      
-        
-        
-        
-      
-        
-        
-        
-      
-        
-        
-        
-      
-        
-        
-        
-      
-        
-        
-        
-      
-        
-        
-        
-      
-        
-        
-        
-      
-    </div>
-    <div class="paginator">
-      
-    <ul class="pagination pagination-default">
-      <li class="page-item disabled">
-        <a aria-disabled="true" aria-label="First" class="page-link" role="button" tabindex="-1"><span aria-hidden="true">&laquo;&laquo;</span></a>
-      </li>
-      <li class="page-item disabled">
-        <a aria-disabled="true" aria-label="Previous" class="page-link" role="button" tabindex="-1"><span aria-hidden="true">&laquo;</span></a>
-      </li>
-      <li class="page-item active">
-        <a aria-current="page" aria-label="Page 1" class="page-link" role="button">1</a>
-      </li>
-      <li class="page-item">
-        <a href="/notes/page/2/" aria-label="Page 2" class="page-link" role="button">2</a>
-      </li>
-      <li class="page-item">
-        <a href="/notes/page/2/" aria-label="Next" class="page-link" role="button"><span aria-hidden="true">&raquo;</span></a>
-      </li>
-      <li class="page-item">
-        <a href="/notes/page/2/" aria-label="Last" class="page-link" role="button"><span aria-hidden="true">&raquo;&raquo;</span></a>
-      </li>
-    </ul>
     </div>
   </div>
 </section>
