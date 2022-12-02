@@ -2,131 +2,53 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   <url>
-    <loc>https://hugo-toha.github.io/notes/category2/example2/</loc>
+    <loc>https://monal-patel.github.io/</loc>
+    <lastmod>2021-07-20T13:56:01-08:00</lastmod>
+    <priority>0</priority>
   </url><url>
-    <loc>https://hugo-toha.github.io/notes/category1/example1/</loc>
+    <loc>https://monal-patel.github.io/categories/</loc>
+    <lastmod>2021-07-20T13:56:01-08:00</lastmod>
   </url><url>
-    <loc>https://hugo-toha.github.io/search/</loc>
-    <lastmod>2010-06-08T08:06:25+06:00</lastmod>
-    <priority>0.1</priority>
+    <loc>https://monal-patel.github.io/categories/katex/</loc>
+    <lastmod>2021-07-20T13:56:01-08:00</lastmod>
   </url><url>
-    <loc>https://hugo-toha.github.io/search/</loc>
-    <lastmod>2010-06-08T08:06:25+06:00</lastmod>
-    <priority>0.1</priority>
+    <loc>https://monal-patel.github.io/categories/latex/</loc>
+    <lastmod>2021-07-20T13:56:01-08:00</lastmod>
   </url><url>
-    <loc>https://hugo-toha.github.io/search/</loc>
-    <lastmod>2010-06-08T08:06:25+06:00</lastmod>
-    <priority>0.1</priority>
+    <loc>https://monal-patel.github.io/post/more-maths/</loc>
+    <lastmod>2021-07-20T13:56:01-08:00</lastmod>
   </url><url>
-    <loc>https://hugo-toha.github.io/search/</loc>
-    <lastmod>2010-06-08T08:06:25+06:00</lastmod>
-    <priority>0.1</priority>
+    <loc>https://monal-patel.github.io/post/</loc>
+    <lastmod>2021-07-20T13:56:01-08:00</lastmod>
   </url><url>
-    <loc>https://hugo-toha.github.io/search/</loc>
-    <lastmod>2010-06-08T08:06:25+06:00</lastmod>
-    <priority>0.1</priority>
+    <loc>https://monal-patel.github.io/categories/tufte-css/</loc>
+    <lastmod>2021-07-20T13:56:01-08:00</lastmod>
   </url><url>
-    <loc>https://hugo-toha.github.io/search/</loc>
-    <lastmod>2010-06-08T08:06:25+06:00</lastmod>
-    <priority>0.1</priority>
+    <loc>https://monal-patel.github.io/post/tufte-features/</loc>
+    <lastmod>2016-02-20T13:56:01-08:00</lastmod>
   </url><url>
-    <loc>https://hugo-toha.github.io/search/</loc>
-    <lastmod>2010-06-08T08:06:25+06:00</lastmod>
-    <priority>0.1</priority>
+    <loc>https://monal-patel.github.io/post/nodate/</loc>
+    <lastmod>2015-05-15T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>https://hugo-toha.github.io/search/</loc>
-    <lastmod>2010-06-08T08:06:25+06:00</lastmod>
-    <priority>0.1</priority>
+    <loc>https://monal-patel.github.io/post/blockquote/</loc>
+    <lastmod>2015-01-19T23:57:58-08:00</lastmod>
   </url><url>
-    <loc>https://hugo-toha.github.io/search/</loc>
-    <lastmod>2010-06-08T08:06:25+06:00</lastmod>
-    <priority>0.1</priority>
+    <loc>https://monal-patel.github.io/categories/fun/</loc>
+    <lastmod>2014-03-29T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>https://hugo-toha.github.io/search/</loc>
-    <lastmod>2010-06-08T08:06:25+06:00</lastmod>
-    <priority>0.1</priority>
+    <loc>https://monal-patel.github.io/categories/hugo/</loc>
+    <lastmod>2014-03-29T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>https://hugo-toha.github.io/search/</loc>
-    <lastmod>2010-06-08T08:06:25+06:00</lastmod>
-    <priority>0.1</priority>
+    <loc>https://monal-patel.github.io/post/new/</loc>
+    <lastmod>2014-03-29T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>https://hugo-toha.github.io/search/</loc>
-    <lastmod>2010-06-08T08:06:25+06:00</lastmod>
-    <priority>0.1</priority>
+    <loc>https://monal-patel.github.io/categories/test/</loc>
+    <lastmod>2014-03-29T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>https://hugo-toha.github.io/search/</loc>
-    <lastmod>2010-06-08T08:06:25+06:00</lastmod>
-    <priority>0.1</priority>
+    <loc>https://monal-patel.github.io/about/</loc>
   </url><url>
-    <loc>https://hugo-toha.github.io/search/</loc>
-    <lastmod>2010-06-08T08:06:25+06:00</lastmod>
-    <priority>0.1</priority>
+    <loc>https://monal-patel.github.io/series/</loc>
   </url><url>
-    <loc>https://hugo-toha.github.io/search/</loc>
-    <lastmod>2010-06-08T08:06:25+06:00</lastmod>
-    <priority>0.1</priority>
-  </url><url>
-    <loc>https://hugo-toha.github.io/search/</loc>
-    <lastmod>2010-06-08T08:06:25+06:00</lastmod>
-    <priority>0.1</priority>
-  </url><url>
-    <loc>https://hugo-toha.github.io/search/</loc>
-    <lastmod>2010-06-08T08:06:25+06:00</lastmod>
-    <priority>0.1</priority>
-  </url><url>
-    <loc>https://hugo-toha.github.io/search/</loc>
-    <lastmod>2010-06-08T08:06:25+06:00</lastmod>
-    <priority>0.1</priority>
-  </url><url>
-    <loc>https://hugo-toha.github.io/search/</loc>
-    <lastmod>2010-06-08T08:06:25+06:00</lastmod>
-    <priority>0.1</priority>
-  </url><url>
-    <loc>https://hugo-toha.github.io/search/</loc>
-    <lastmod>2010-06-08T08:06:25+06:00</lastmod>
-    <priority>0.1</priority>
-  </url><url>
-    <loc>https://hugo-toha.github.io/search/</loc>
-    <lastmod>2010-06-08T08:06:25+06:00</lastmod>
-    <priority>0.1</priority>
-  </url><url>
-    <loc>https://hugo-toha.github.io/search/</loc>
-    <lastmod>2010-06-08T08:06:25+06:00</lastmod>
-    <priority>0.1</priority>
-  </url><url>
-    <loc>https://hugo-toha.github.io/search/</loc>
-    <lastmod>2010-06-08T08:06:25+06:00</lastmod>
-    <priority>0.1</priority>
-  </url><url>
-    <loc>https://hugo-toha.github.io/search/</loc>
-    <lastmod>2010-06-08T08:06:25+06:00</lastmod>
-    <priority>0.1</priority>
-  </url><url>
-    <loc>https://hugo-toha.github.io/search/</loc>
-    <lastmod>2010-06-08T08:06:25+06:00</lastmod>
-    <priority>0.1</priority>
-  </url><url>
-    <loc>https://hugo-toha.github.io/</loc>
-    <lastmod>2022-09-08T06:00:23+06:00</lastmod>
-  </url><url>
-    <loc>https://hugo-toha.github.io/posts/</loc>
-    <lastmod>2022-09-08T06:00:23+06:00</lastmod>
-  </url><url>
-    <loc>https://hugo-toha.github.io/posts/testpost/</loc>
-    <lastmod>2022-09-08T06:00:23+06:00</lastmod>
-  </url><url>
-    <loc>https://hugo-toha.github.io/notes/</loc>
-    <lastmod>2010-06-08T08:06:25+06:00</lastmod>
-  </url><url>
-    <loc>https://hugo-toha.github.io/notes/category1/</loc>
-  </url><url>
-    <loc>https://hugo-toha.github.io/notes/category2/</loc>
-  </url><url>
-    <loc>https://hugo-toha.github.io/categories/</loc>
-  </url><url>
-    <loc>https://hugo-toha.github.io/search/</loc>
-    <priority>0.1</priority>
-  </url><url>
-    <loc>https://hugo-toha.github.io/tags/</loc>
+    <loc>https://monal-patel.github.io/tags/</loc>
   </url>
 </urlset>

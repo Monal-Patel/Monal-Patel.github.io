@@ -1,60 +1,89 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes"?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
-    <title>Posts on </title>
+    <title>Posts on Monal Patel</title>
     <link>https://monal-patel.github.io/post/</link>
-    <description>Recent content in Posts on </description>
+    <description>Recent content in Posts on Monal Patel</description>
     <generator>Hugo -- gohugo.io</generator>
-    <language>en-uk</language>
-    <copyright>&amp;copy; 2021. All rights reserved.</copyright>
-    <lastBuildDate>Sun, 28 Sep 2014 00:00:00 +0000</lastBuildDate>
-    
-	<atom:link href="https://monal-patel.github.io/post/index.xml" rel="self" type="application/rss+xml" />
-    
-    
+    <language>en-gb</language>
+    <lastBuildDate>Tue, 20 Jul 2021 13:56:01 -0800</lastBuildDate><atom:link href="https://monal-patel.github.io/post/index.xml" rel="self" type="application/rss+xml" />
     <item>
-      <title>Creating a New Theme</title>
-      <link>https://monal-patel.github.io/post/creating-a-new-theme/</link>
-      <pubDate>Sun, 28 Sep 2014 00:00:00 +0000</pubDate>
+      <title>More math $\xi_{(even-in-the-title-!)}$</title>
+      <link>https://monal-patel.github.io/post/more-maths/</link>
+      <pubDate>Tue, 20 Jul 2021 13:56:01 -0800</pubDate>
       
-      <guid>https://monal-patel.github.io/post/creating-a-new-theme/</guid>
-      <description>Introduction This tutorial will show you how to create a simple theme in Hugo. I assume that you are familiar with HTML, the bash command line, and that you are comfortable using Markdown to format content. I&amp;rsquo;ll explain how Hugo uses templates and how you can organize your templates to create a theme. I won&amp;rsquo;t cover using CSS to style your theme.
-We&amp;rsquo;ll start with creating a new site with a very basic template.</description>
+      <guid>https://monal-patel.github.io/post/more-maths/</guid>
+      <description>&lt;p&gt;A compilation of $\LaTeX$ formulas&amp;hellip;&lt;/p&gt;</description>
     </item>
     
     <item>
-      <title>Migrate to Hugo from Jekyll</title>
-      <link>https://monal-patel.github.io/post/migrate-from-jekyll/</link>
-      <pubDate>Mon, 10 Mar 2014 00:00:00 +0000</pubDate>
+      <title>Hugo-Tufte Features</title>
+      <link>https://monal-patel.github.io/post/tufte-features/</link>
+      <pubDate>Sat, 20 Feb 2016 13:56:01 -0800</pubDate>
       
-      <guid>https://monal-patel.github.io/post/migrate-from-jekyll/</guid>
-      <description>Move static content to static Jekyll has a rule that any directory not starting with _ will be copied as-is to the _site output. Hugo keeps all static content under static. You should therefore move it all there. With Jekyll, something that looked like
-▾ &amp;lt;root&amp;gt;/ ▾ images/ logo.png  should become
-▾ &amp;lt;root&amp;gt;/ ▾ static/ ▾ images/ logo.png  Additionally, you&amp;rsquo;ll want any files that should reside at the root (such as CNAME) to be moved to static.</description>
+      <guid>https://monal-patel.github.io/post/tufte-features/</guid>
+      <description>&lt;p&gt;This is a quick demonstration post.  It serves as an example of the features
+of this theme.  One of them is $ \LaTeX $ via &lt;a href=&#34;https://katex.org/&#34;&gt;Katex&lt;/a&gt;.
+
+
+  &lt;section&gt;
+
+    
+&lt;/p&gt;
+&lt;h2 id=&#34;a-bit-about-mathematics&#34;&gt;A Bit About Mathematics&lt;/h2&gt;
+&lt;div class=&#34;epigraph&#34;&gt;
+&lt;blockquote&gt;
+
+&lt;p&gt;This is an example of an epigraph with some math
+$ \mathbb N \subseteq \mathbb R $
+to start the beginning of a section.&lt;/p&gt;
+
+&lt;footer&gt;
+Shawn O&amp;#39;Hare, 
+
+&lt;cite&gt;Math is Fun&lt;/cite&gt;
+&lt;/a&gt;
+
+&lt;/footer&gt;
+
+&lt;blockquote&gt;
+&lt;/div&gt;</description>
     </item>
     
     <item>
-      <title>(Hu)go Template Primer</title>
-      <link>https://monal-patel.github.io/post/goisforlovers/</link>
-      <pubDate>Wed, 02 Apr 2014 00:00:00 +0000</pubDate>
+      <title>Hide Date</title>
+      <link>https://monal-patel.github.io/post/nodate/</link>
+      <pubDate>Fri, 15 May 2015 00:00:00 +0000</pubDate>
       
-      <guid>https://monal-patel.github.io/post/goisforlovers/</guid>
-      <description>Hugo uses the excellent go html/template library for its template engine. It is an extremely lightweight engine that provides a very small amount of logic. In our experience that it is just the right amount of logic to be able to create a good static website. If you have used other template systems from different languages or frameworks you will find a lot of similarities in go templates.
-This document is a brief primer on using go templates.</description>
+      <guid>https://monal-patel.github.io/post/nodate/</guid>
+      <description>Here is an example post where the date set, but hidden from display.
+Moreover, the reading time is also hidden.</description>
     </item>
     
     <item>
-      <title>Getting Started with Hugo</title>
-      <link>https://monal-patel.github.io/post/hugoisforlovers/</link>
-      <pubDate>Wed, 02 Apr 2014 00:00:00 +0000</pubDate>
+      <title>Blockquotes</title>
+      <link>https://monal-patel.github.io/post/blockquote/</link>
+      <pubDate>Mon, 19 Jan 2015 23:57:58 -0800</pubDate>
       
-      <guid>https://monal-patel.github.io/post/hugoisforlovers/</guid>
-      <description>Step 1. Install Hugo Goto hugo releases and download the appropriate version for your os and architecture.
-Save it somewhere specific as we will be using it in the next step.
-More complete instructions are available at installing hugo
-Step 2. Build the Docs Hugo has its own example site which happens to also be the documentation site you are reading right now.
-Follow the following steps:
- Clone the hugo repository Go into the repo Run hugo in server mode and build the docs Open your browser to http://localhost:1313  Corresponding pseudo commands:</description>
+      <guid>https://monal-patel.github.io/post/blockquote/</guid>
+      <description>&lt;p&gt;Below is a blockquote.&lt;/p&gt;
+&lt;blockquote&gt;
+&lt;p&gt;This is a blockquote with two paragraphs. Lorem ipsum dolor sit amet,
+consectetuer adipiscing elit. Aliquam hendrerit mi posuere lectus.
+Vestibulum enim wisi, viverra nec, fringilla in, laoreet vitae, risus.&lt;/p&gt;
+&lt;p&gt;Donec sit amet nisl. Aliquam semper ipsum sit amet velit. Suspendisse
+id sem consectetuer libero luctus adipiscing.&lt;/p&gt;
+&lt;/blockquote&gt;</description>
+    </item>
+    
+    <item>
+      <title>Just another sample post</title>
+      <link>https://monal-patel.github.io/post/new/</link>
+      <pubDate>Sat, 29 Mar 2014 00:00:00 +0000</pubDate>
+      
+      <guid>https://monal-patel.github.io/post/new/</guid>
+      <description>First Heading    Tables Are Cool     col 1 is left-aligned $1600   col 2 is centered $12   col 3 is right-aligned $1    Lorem ipsum dolor sit amet, consectetur adipisicing elit. Accusamus, consequatur aspernatur omnis iste. Voluptates, id inventore ea natus ab sed amet ipsa ratione sunt dignissimos. Soluta illum aliquid repellendus recusandae.
+Sub Lorem ipsum dolor sit amet, consectetur adipisicing elit.</description>
     </item>
     
   </channel>
