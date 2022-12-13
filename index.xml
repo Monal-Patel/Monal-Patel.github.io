@@ -1,9 +1,9 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes"?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
-    <title>Monal Patel</title>
+    <title>About on Monal Patel</title>
     <link>https://monal-patel.github.io/</link>
-    <description>Recent content on Monal Patel</description>
+    <description>Recent content in About on Monal Patel</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-gb</language>
     <lastBuildDate>Sat, 20 Feb 2016 13:56:01 -0800</lastBuildDate><atom:link href="https://monal-patel.github.io/index.xml" rel="self" type="application/rss+xml" />
@@ -39,17 +39,6 @@ Shawn O&amp;#39;Hare,
 
 &lt;blockquote&gt;
 &lt;/div&gt;</description>
-    </item>
-    
-    <item>
-      <title></title>
-      <link>https://monal-patel.github.io/about/</link>
-      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      
-      <guid>https://monal-patel.github.io/about/</guid>
-      <description>⊕ The image title.  This is the image caption. Image attribution      -- About me   Hello, I am a young researcher. I have a background in Mechanical Engineering and Computional Fluid Dynamics.
-Research I am curious about many natural and human phenomena, as well as novel engineering endeavours.
-I have developed numerical methods for modelling atmospheric re-entry (hypersonic) flows, and investigated aspects of hypersonic flows in my PhD.</description>
     </item>
     
   </channel>
